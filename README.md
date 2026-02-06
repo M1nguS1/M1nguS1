@@ -1,6 +1,10 @@
 # Hi there 👋
 ## 🌱 I’m currently learning
-1. GitHub
+### 1. GitHub <img alt="Logo" src="Documents/github.jpg" width="40" align="left">
+### 2. Fedora
+### 3. c#
+### 4. .NET
+
 2. Fedora
 3. c#
 4. .NET
