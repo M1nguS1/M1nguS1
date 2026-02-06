@@ -1,5 +1,5 @@
-# Hi there 👋
-## 🌱 I’m currently learning
+# Senior Developer status: Loading... [█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 5%. Soon to be your lead's most reliable asset. 🔒
+## 🌱 Currently learning
 | Tech Stack | Icon | Repository |
 | :--- | :--- | :--- |
 | **GitHub** | <img src="Documents/github.jpg" width="40" height="40"> | You can find more information about my progress in (link)
