@@ -1,9 +1,9 @@
 # Hi there 👋
 ## 🌱 I’m currently learning
-### 1. GitHub <img alt="Logo" src="Documents/github.jpg" width="40" align="left">
-### 2. Fedora
-### 3. c#
-### 4. .NET
+### GitHub <img alt="Logo" src="Documents/github.jpg" width="40" align="left">
+### Fedora
+### c#
+### .NET
 
 
 
