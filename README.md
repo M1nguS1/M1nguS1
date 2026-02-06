@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋
+## 🌱 I’m currently learning
+1. GitHub
+2. Fedora
+3. c#
+4. .NET
+
 
 <!--
 **M1nguS1/M1nguS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
