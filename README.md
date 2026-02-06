@@ -1,15 +1,13 @@
 # Hi there 👋
 ## 🌱 I’m currently learning
-### GitHub <img alt="Logo" src="Documents/github.jpg" width="40" height="200" align="left">
-You can find more information about my progress in (link)
-### Fedora <img alt="Logo" src="Documents/fedora.png" width="40" height="40" align="left">
-You can find more information about my progress in (link)
-### c#
-You can find more information about my progress in (link)
-### .NET
-You can find more information about my progress in (link)
-### MySQL
-You can find more information about my progress in  (link)
+| Tech Stack | Icon | Repository |
+| :--- | :--- | :--- |
+| **GitHub** | <img src="Documents/github.jpg" width="40" height="40"> | You can find more information about my progress in (link)
+| **Fedora** | <img src="Documents/fedora.png" width="40" height="40"> | You can find more information about my progress in (link)
+| **c#** | X | You can find more information about my progress in (link)
+| **.NET** | X | You can find more information about my progress in (link)
+| **MySQL** | X | You can find more information about my progress in (link)
+
 
 
 
