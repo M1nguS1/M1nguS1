@@ -1,4 +1,4 @@
-# Senior Developer status: Loading... [█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 5%. Soon to be your lead's most reliable asset. 🔒
+# Senior Developer status: Loading... [█▒▒▒▒▒▒▒▒▒▒▒▒▒] 5%. Soon to be your lead's most reliable asset. 🔒
 ## 🌱 Currently learning
 | Tech Stack | Icon | Repository |
 | :--- | :--- | :--- |
