@@ -4,7 +4,7 @@
 | :--- | :--- | :--- |
 | **GitHub** | <img src="Documents/github.jpg" width="40" height="40"> | You can find more information about my progress in (link)
 | **Fedora** | <img src="Documents/fedora.png" width="40" height="40"> | You can find more information about my progress in (link)
-| **c#** | X | You can find more information about my progress in (link)
+| **c#** | <img src="Documents/csharp" width="40" height="40"> | You can find more information about my progress in (link)
 | **.NET** | X | You can find more information about my progress in (link)
 | **MySQL** | X | You can find more information about my progress in (link)
 
